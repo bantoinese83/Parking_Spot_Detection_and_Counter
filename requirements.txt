@@ -1,0 +1,9 @@
+opencv-python~=4.9.0.80
+scikit-learn
+pandas
+Pillow
+matplotlib
+numpy~=1.24.3
+scikit-image~=0.23.2
+loguru~=0.5.3
+rich~=13.3.5
